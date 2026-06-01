@@ -1,0 +1,4 @@
+Game initialized with track size 15x10
+Player car starts at (0, 1) with speed 1.0
+AI car starts at (0, 5) with speed 1.0
+Winner of the game is P
